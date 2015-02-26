@@ -11,5 +11,8 @@
     "angular-loader": "latest",
     "angular-mocks": "latest",
     "ng-websocket": "~0.2.1"
+  },
+  "devDependencies": {
+    "angular-ui-grid": "~3.0.0-rc.20"
   }
 }
